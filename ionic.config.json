@@ -1,0 +1,8 @@
+{
+  "name": "Limbin",
+  "app_id": "9bc7770e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
